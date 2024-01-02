@@ -1,4 +1,4 @@
-<h1>Hi, I'm RoDerick! <br/><a href="https://github.com/roderickch01">Software Developerr</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm RoDerick! <br/><a href="https://github.com/roderickch01">Software Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
